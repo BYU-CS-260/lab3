@@ -1,6 +1,6 @@
 # Lab 3: Creating a React XKCD Browser
 
-In this assignment, you will use Vue to build an application that uses
+In this assignment, you will use React to build an application that uses
 an API to browse XKCD comics.
 
 ## Starting the lab
