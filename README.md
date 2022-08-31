@@ -1,4 +1,4 @@
-# Lab 3: Creating a Vue XKCD Browser
+# Lab 3: Creating a React XKCD Browser
 
 In this assignment, you will use Vue to build an application that uses
 an API to browse XKCD comics.
@@ -13,7 +13,7 @@ grade repositories created and submitted this way.
 Once you "Accept the assignment" on GitHub Classroom, it will create a
 new repository for you and grant you access to it on GitHub. In order
 to start working on the lab, simply clone the repository to your
-laptop or other working environment.
+Cloud9 environment.
 
 ## Tutorial
 
@@ -36,23 +36,6 @@ Add buttons to navigate to the first comic and the last comic.
 Add the current date and time to every comment that is created, then
 show the current date and time after or below the author's name. You may want to use the [moment](https://momentjs.com/) to  help you format the date and time.
 
-### Star rating
-
-Add the ability for people to rate the cartoon. Display the average
-rating accumulated so far. The average should be separate for each cartoon.
-
-Use this [star rating library for
-Vue](https://github.com/craigh411/vue-star-rating).
-
-Use this [star ratings tutorial](/STAR-RATINGS.md) for help.
-
-Change the options on the star rating library so that it increments in
-steps of 0.5, does not show the current rating, and uses red stars.
-
-When you're done, it should look like this:
-
-![rating](images/rating.png)
-
 ## Link to GitHub repository
 
 In a footer, you must include a link to your GitHub repository, which must be
@@ -71,6 +54,5 @@ rubric:
 Item | Points
 --- | ---
 The material in the tutorial works | 70
-Buttons for first and last comic work | 10
+Buttons for first random and last comic work | 20
 Date and time for comments work | 10
-Star ratings work | 10
