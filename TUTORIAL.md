@@ -168,11 +168,11 @@ We should show some additional information about the comic. We can do this insid
 ## Navigating with buttons
 
 We would like to be able to navigate to comics written on other days. To do this, add some buttons to `index.html`:
-We have provided you with the button for Previous.  Add Next and First.
+We have provided you with the button for Previous.  Add Next, First and Last.
 
 ## Navigating to a random comic
 
-We'll now add another button to navigate to a random comic. To do this, add the button after the other buttons
+We'll now add another button to navigate to a random comic. To do this, add the button with the other buttons
 in `index.html`:
 
 You will want to generate a random number between 1 and the maximum this.state.lastComic
