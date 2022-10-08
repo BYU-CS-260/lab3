@@ -11,19 +11,6 @@ of the functionality. Once you are done, your lab should look like this:
 
 ![xkcd](images/xkcd.png)
 
-## Additional Functionality
-
-Once you complete the tutorial, add the following functionality:
-
-### More navigation buttons
-
-Add buttons to navigate to the first comic and the last comic.
-
-### Date and time for comments
-
-Add the current date and time to every comment that is created, then
-show the current date and time after or below the author's name. You may want to use the [moment](https://momentjs.com/) to  help you format the date and time.
-
 ## Link to GitHub repository
 
 In a footer, you must include a link to your GitHub repository, which must be
@@ -34,13 +21,3 @@ stored in GitHub Classroom.
 On Canvas, submit the URL for your website, which should be running on
 your server.
 
-## Rubric for Grading
-
-When we grade these labs, we will award points using the following
-rubric:
-
-Item | Points
---- | ---
-The material in the tutorial works | 70
-Buttons for first random and last comic work | 20
-Date and time for comments work | 10
