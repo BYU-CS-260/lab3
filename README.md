@@ -3,18 +3,6 @@
 In this assignment, you will use React to build an application that uses
 an API to browse XKCD comics.
 
-## Starting the lab
-
-To start the lab, you must follow this [GitHub Classroom
-link](https://classroom.github.com/a/08IpOuzs). This will create a
-private repository for you using our classroom site. We will only
-grade repositories created and submitted this way.
-
-Once you "Accept the assignment" on GitHub Classroom, it will create a
-new repository for you and grant you access to it on GitHub. In order
-to start working on the lab, simply clone the repository to your
-Cloud9 environment.
-
 ## Tutorial
 
 Use the [tutorial](/TUTORIAL.md)
