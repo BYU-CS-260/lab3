@@ -152,7 +152,7 @@ We use this JSON data by putting the following code inside of the render()
 This will bind the `safe_title`, `src` and `alt` properties of the React state to some HTML elements.
 
 ## Saving the max comic number
-You will need to add buttons to allow you to see the first, last, previous and next comics.  
+You will need to add buttons to allow you to see the first, last, previous, next and random comics.  
 Notice that on the first time getXKCD() is called (when the state variable lastComic is zero), we save the current comic number to lastComic.
 This will allow you to use this later when you implement a button to go to the last comic and check to make sure that your next button does
 not go past the end of available comics.
