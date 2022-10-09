@@ -1,5 +1,7 @@
 # Star ratings
 
+This module was part of the lab when we were using Vue.  You do not need to implement this in React.
+<!---
 Use this [star rating library for Vue](https://github.com/craigh411/vue-star-rating). Use the CDN method for loading the libary by putting this in `index.html`:
 
 ```
@@ -66,3 +68,4 @@ Just like with the comments, we need to use `Vue.set` to setup a new property in
 You can now create a computed property that returns the average rating for the currently viewed comic. Once you have a computed average, you can show it in `index.html`.
 
 You can also change the options on the star rating library so that it increments in steps of 0.5, does not show the current rating, and uses red stars. See the props section in the Star Ratings docs for help.
+-->
